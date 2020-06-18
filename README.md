@@ -1,7 +1,7 @@
 # 2015-09-15 - HypenTextBoth
 - https://en.wikipedia.org/wiki/User_talk:Nemzag#HypenTextBoth  
-**SLUG ≡ SÊ‑LOG :** re‑move inth‑êlli‑gênce / with‑out logic.  
-alias :  
+**←⊖⊘⊖SLUG ≡ SÊ‑LOG :** re‑move inth‑êlli‑gênce / with‑out logic.  
+**HypenTextBoth** function alias :  
 **→⊕⊕⊕ LGSË** {En. lgsu} **[lɡsə]** ôr :  
 **←⊘⊕⊖ SËLG** {En. sulg} **[səlɡ]** ôr :  
 **→⊕⊘⊕ LSËG** {En. lsug} **[lsəɡ]**.
