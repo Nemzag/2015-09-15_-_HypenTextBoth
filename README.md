@@ -1,6 +1,6 @@
 # 2015-09-15 - HypenTextBoth
 - https://en.wikipedia.org/wiki/User_talk:Nemzag#HypenTextBoth  
-SLUG opposite function.  
+**SLUG ≡ SÊ‑LOG :** re‑move inth‑êlli‑gênce / with‑out logic.  
 alias :  
 **→⊕⊕⊕ LGSË** {En. lgsu} **[lɡsə]** ôr :  
 **←⊘⊕⊖ SËLG** {En. sulg} **[səlɡ]** ôr :  
