@@ -13,6 +13,7 @@ By using standard international extension system,
 and **pro‑per accênt’s**.
 
 <hr>
+
 **Slug** (function learned in novembre 2020 in web‑dev school) opposite function,  
 **←⊖⊘⊖ SLUG ≡ SÊ‑LOG :** re‑move in‑têl‑leg‑ênth / inth‑êlli‑gênce || with‑out logic.  
 This is a function, in computer programming, pro removing accented or special characters & UniCode.  
