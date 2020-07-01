@@ -8,9 +8,10 @@
 adding automatically, after simple writing,  
 in any tools Write, Word, I.D.E., W.Y.S.I.W.Y.G., navigators…  
 By using standard international extension system,
-**hypen‑point** (with word‑joiner [U+2060], un‑break‑able),  
-**hyphen‑minus** [U+2011],  
-and **pro‑per accênt’s**.
+- **hypen‑point** (with word‑joiner [U+2060], un‑break‑able),  
+- **hyphen‑minus** [U+2011],  
+- **pro‑per accênt’s**,
+- or alterna‑tive‑ly to accênt’s, ôriginal rêgth antique authêntique **I.P.A. character’s**.
 
 <hr>
 
